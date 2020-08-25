@@ -5,7 +5,7 @@ This is 2nd line
 public static class welcome {
 
 main(){
-
+sysout("bug fixed");
 }
 
 }
