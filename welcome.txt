@@ -2,7 +2,10 @@ Hello Git
 
 This is 2nd line 
 
-public class welcome {
+public static class welcome {
 
+main(){
+
+}
 
 }
